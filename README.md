@@ -13,7 +13,13 @@
 <!-- GitHub Stats -->
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lschmeil&show_icons=true&theme=radical)
 
+### 🚀 Top Languages (all)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lschmeil&layout=compact&theme=radical)
+
+### 🎨 Front-End Focus
+
+HTML, CSS, JavaScript
 
 
 📂 Explore my repositories and see how I turn logic into solutions.
