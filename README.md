@@ -1,16 +1,15 @@
-## Hi there 👋
+🧩 Lucas Pontes Schmeil
+Full Stack Júnior Developer
 
-<!--
-**lschmeil/lschmeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvo soluções completas — back-end estruturado e front-end funcional com foco na experiência do usuário.
 
-Here are some ideas to get you started:
+🛠 Back-end: Java • Python • JavaScript
+🎨 Front-end: HTML • CSS • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Integrações com bancos de dados como MySQL, SQLite e Firebase fazem parte da minha rotina.
+Também tenho experiência com sistemas escolares, portfólios interativos e gestão financeira pessoal.
+
+🔄 Evoluir é parte do código — aprendo, melhoro e entrego com propósito.
+
+📫 lucasschemil.dev.system@gmail.com
+📂 Explore meus repositórios e veja como eu transformo lógica em solução.
