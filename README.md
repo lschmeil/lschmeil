@@ -13,6 +13,9 @@
 
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lschmeil&theme=radical)  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lschmeil&show_icons=true&theme=radical) 
 
+### Contacts
+
+<img 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/>
 
 
 
