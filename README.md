@@ -1,4 +1,4 @@
-###🧩 Lucas Pontes Schmeil
+🧩 Lucas Pontes Schmeil
 Full Stack Júnior Developer
 
 🎯 Desenvolvo soluções completas — back-end estruturado e front-end funcional com foco na experiência do usuário.
