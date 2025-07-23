@@ -13,4 +13,7 @@
 <!-- GitHub Stats -->
 ![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lschmeil&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lschmeil&layout=compact&theme=radical)
+
+
 📂 Explore my repositories and see how I turn logic into solutions.
