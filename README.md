@@ -9,4 +9,8 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" />
 
+### My stats
+<!-- GitHub Stats -->
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lschmeil&show_icons=true&theme=radical)
+
 📂 Explore my repositories and see how I turn logic into solutions.
