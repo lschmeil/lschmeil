@@ -3,7 +3,7 @@
 🔧 Junior Full Stack Developer focused on complete and functional solutions.  
 🌐 Experience in projects involving school systems, portfolios, and financial management.  
 🎯 Committed to quality, organization, and continuous improvement in every delivery.  
-📫 lucasschemeil.dev.system@gmail.com
+📫 lucasschmeil.dev.system@gmail.com
 
 ### 🚀 Best Technologies
 
